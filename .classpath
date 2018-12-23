@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Old laptop Data/Downloads/Libraries/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/mp3plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/JMF-2.1.1e/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/JMF-2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/JMF-2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasi/Downloads/jlayer-1.0.1-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
